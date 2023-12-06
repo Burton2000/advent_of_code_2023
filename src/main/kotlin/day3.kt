@@ -222,8 +222,3 @@ class Day3 {
         }
     }
 }
-
-
-// find all stars
-// check if star has number next to it
-// find the numbers next to star
