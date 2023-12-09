@@ -1,6 +1,3 @@
-import Day3.Companion.checkNeighbors
-import Day3.Companion.checkNeighborsNum
-import Day3.Companion.getNeighborNumProd
 import java.io.BufferedReader
 import java.io.File
 import java.io.FileReader
